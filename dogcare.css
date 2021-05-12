@@ -1,0 +1,26 @@
+h1 {
+    color: lawngreen;
+    border-radius: 67 px;
+}
+h2 a{
+    color: black;
+}
+h2 a:hover{
+    color: crimson
+}
+.dog{
+    border-radius: 100px;
+    
+}
+.dog:hover{
+    opacity: 20px;
+    -webkit-box-shadow: 10px 9px 15px 2px rgba(238, 26, 11, 0.75);
+    -moz-box-shadow: 10px 9px 15px 2px rgba(250, 9, 9, 0.75);
+     box-shadow: 10px 9px 15px 2px rgba(255, 87, 87, 0.75);
+}
+body{
+    color: darkblue;
+}
+.s{
+    color: cyan;
+}
